@@ -1,5 +1,3 @@
-/* USHBU KOD @YALQOVKODER tomonidan tuzilgan tayyor nakrutka bot kodi.Manbaga kut bulsa tegishaver*/
-
 <?php
 ob_start();
 error_reporting(0);
